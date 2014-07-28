@@ -1,0 +1,6 @@
+{application, dog_fsm,
+  [{description,  "Finite State Machine of a dog."},
+   {vsn, "0.0.1"},
+   {modules, [dog_fsme]}
+  ]
+}.
